@@ -1,0 +1,1 @@
+Redeems all codes automatically
